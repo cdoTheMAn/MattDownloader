@@ -1,0 +1,12 @@
+{
+  "job_id": "job-ok",
+  "source_url": "https://www.instagram.com/reel/DZFX6iVtOBd/?igsh=M3VtOG5pMjd0aWk1",
+  "created_at_utc": "2026-06-04T07:38:36Z",
+  "mode": "single",
+  "total_size_bytes": 258941,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-ok/file.bin",
+  "chunks_path_prefix": "jobs/job-ok/chunks/chunk_",
+  "suggested_filename": "download.bin"
+}
