@@ -1,0 +1,12 @@
+{
+  "job_id": "job-mpz6raa0-hk41kw3o",
+  "source_url": "https://t.me/allsaverbot/22851",
+  "created_at_utc": "2026-06-04T07:40:43Z",
+  "mode": "single",
+  "total_size_bytes": 11423,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-mpz6raa0-hk41kw3o/file.bin",
+  "chunks_path_prefix": "jobs/job-mpz6raa0-hk41kw3o/chunks/chunk_",
+  "suggested_filename": "22851"
+}
